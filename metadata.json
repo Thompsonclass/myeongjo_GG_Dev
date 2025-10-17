@@ -1,0 +1,5 @@
+{
+  "name": "MyeongjoGG_Dev",
+  "description": "A comprehensive database and build simulator for the game Wuthering Waves (Myeongjo), tailored for the Korean community. Features character, weapon, and echo databases, along with a powerful build simulator with OCR capabilities.",
+  "requestFramePermissions": []
+}
